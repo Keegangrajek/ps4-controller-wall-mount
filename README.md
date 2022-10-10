@@ -10,7 +10,7 @@ Just a simple project to accomplish the task of mounting a controller to a wall.
 
 ## Important links
 - Thingiverse link to original [files](https://www.thingiverse.com/thing:3158960)
-- add more later...
+- OnShape cad [file](https://cad.onshape.com/documents/a0e36e990a403368eaf05630/w/bc90ab263f80aac869be1e00/e/39f009274c0df30e938a8c25) (editable, just clone the file to your account)
 
 ## Contributors to project
 - Keegan Grajek (me) on [Github](https://github.com/Keegangrajek)
